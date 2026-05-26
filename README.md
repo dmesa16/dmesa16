@@ -14,9 +14,9 @@ I am a Chilean mining engineer dedicated to enhancing the efficiency and sustain
 - **Sustainability:** Developing circular economy solutions for the mining industry (e.g., EU-funded ROTATE project).
 
 ### 🛠️ Open Source Software
-- **[Bubble Analyser](https://github.com/dmesa16/bubble_analyser):** Co-developed open-source software for automated bubble size distribution analysis, widely used in academia and industry.
-- **[Froth Monitor](https://github.com/dmesa16/froth_monitor):** Systems for real-time flotation monitoring and control.
-- **[MCDM](https://github.com/dmesa16/mcdm):** A Python framework for Multi-Criteria Decision Making in engineering.
+- **[Bubble Analyser](https://github.com/ImperialCollegeLondon/bubble_analyser):** Co-developed open-source software for automated bubble size distribution analysis, widely used in academia and industry. More info [here](https://www.bubbleanalyser.com).
+- **[Froth Monitor](https://github.com/ImperialCollegeLondon/froth_monitor):** Systems for real-time flotation monitoring and control.
+- **[MCDM](https://github.com/ImperialCollegeLondon/mcdm):** A Python framework for Multi-Criteria Decision Making in engineering.
 
 ### 🎓 Education & Professional
 - **PhD in Mineral Processing** | Imperial College London
@@ -25,9 +25,9 @@ I am a Chilean mining engineer dedicated to enhancing the efficiency and sustain
 
 ### 🌐 Connect with Me
 - [Imperial College Profile](https://profiles.imperial.ac.uk/d.mesa)
-- [Google Scholar](https://scholar.google.com/scholar?q=Diego+Mesa+Pena)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=tX5UJngAAAAJ)
 - [ORCID: 0000-0002-2417-9821](https://orcid.org/0000-0002-2417-9821)
-- [LinkedIn](https://www.linkedin.com/in/dmesa16)
+- [LinkedIn](https://www.linkedin.com/in/diegoamesap)
 - [Email](mailto:d.mesa@imperial.ac.uk)
 
 ### 🏅 Professional Affiliations
