@@ -9,8 +9,8 @@
 I am a Chilean mining engineer dedicated to enhancing the efficiency and sustainability of mineral processing operations. My work focuses on the production of critical raw materials through advanced experimental and computational techniques.
 
 - **Froth Flotation:** Investigating froth stability, bubble-particle interactions, and reagent effects.
-- **Hydrodynamics:** Optimizing impeller-stator designs for flotation performance.
-- **Advanced Techniques:** Utilizing Positron Emission Particle Tracking (PEPT) to map multiphase fluid dynamics.
+- **Fluid Dynamics:** Optimising impeller-stator designs for flotation performance.
+- **Advanced Techniques:** Utilising Positron Emission Particle Tracking (PEPT) to map multiphase fluid dynamics.
 - **Sustainability:** Developing circular economy solutions for the mining industry (e.g., EU-funded ROTATE project).
 
 ### 🛠️ Open Source Software
@@ -32,7 +32,6 @@ I am a Chilean mining engineer dedicated to enhancing the efficiency and sustain
 
 ### 🏅 Professional Affiliations
 - Member of the Institute of Materials, Minerals and Mining (MIMMM)
-- EDI Committee Member | Department of Earth Science & Engineering, Imperial College London
 
 ---
 
