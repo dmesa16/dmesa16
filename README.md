@@ -14,7 +14,7 @@ I am a Chilean mining engineer dedicated to enhancing the efficiency and sustain
 - **Sustainability:** Developing circular economy solutions for the mining industry (e.g., EU-funded ROTATE project).
 
 ### 🛠️ Open Source Software
-- **[Bubble Analyser](https://github.com/ImperialCollegeLondon/bubble_analyser):** Co-developed open-source software for automated bubble size distribution analysis, widely used in academia and industry. More info [here](https://www.bubbleanalyser.com).
+- **[Bubble Analyser](https://github.com/dmesap/bubble_analyser):** Co-developed open-source software for automated bubble size distribution analysis, widely used in academia and industry. More info [here](https://www.bubbleanalyser.com).
 - **[Froth Monitor](https://github.com/ImperialCollegeLondon/froth_monitor):** Systems for real-time flotation monitoring and control.
 - **[MCDM](https://github.com/ImperialCollegeLondon/mcdm):** A Python framework for Multi-Criteria Decision Making in engineering.
 
